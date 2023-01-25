@@ -1,0 +1,76 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@400;500;600&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+} */
+.head{
+    border-top:5px solid rgb(247, 190, 5) ;
+     width: 500px;
+      margin: 20px auto ; 
+      padding: 30px; 
+      background-color: #fff;
+      
+}
+
+.indexbody{
+    background: rgb(226, 225, 225);
+}
+.bor{
+    border: 1px solid black;
+}
+.bord{
+    border-right: 1px solid black;
+    
+}
+i{
+    padding:  10px ;  
+}
+
+h2{
+    text-align: center; 
+    font-weight:bolder;
+    margin-bottom: 30px;
+}
+.Allinput{
+    
+    border: none;
+    outline: none;
+    text-decoration: none;
+    width: 90%;
+}
+
+
+
+.radio-button{
+    margin-left: 20px;
+}
+
+.register-btn{
+    background-color:rgb(247, 190, 5);
+      text-decoration: none; 
+      border: none;
+       padding: 5px; 
+       font-size: 20px; 
+       font-weight: bold; 
+       color: white;
+}
+.row>*{
+ padding-left: calc(var(--bs-gutter-x) * .0);
+}
+
+/* login page  */
+
+
+
+.input-style{
+    border: none;
+ border-bottom: 1px solid black;   
+ outline: none;
+ text-decoration: none;
+ width: 100%;
+ 
+}
+
+div.pad{
+    --bs-gutter-x: 0;
+}
+
